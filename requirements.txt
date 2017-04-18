@@ -1,0 +1,10 @@
+pyyaml
+requests
+requests-toolbelt
+python-dateutil
+pytz
+ujson
+simpleavs
+-e git://github.com/lddias/hyper.git@development#egg=hyper
+-e git://github.com/ksanghai/simpleavs.git#egg=simpleavs
+
